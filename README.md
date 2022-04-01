@@ -1,1 +1,1 @@
-# financial-application---standalone
+# financial-application-standalone
